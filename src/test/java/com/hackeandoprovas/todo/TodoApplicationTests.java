@@ -1,4 +1,4 @@
-package io.github.cursodsousa.todo;
+package com.hackeandoprovas.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

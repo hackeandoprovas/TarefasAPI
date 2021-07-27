@@ -1,4 +1,4 @@
-package io.github.cursodsousa.todo.model;
+package com.hackeandoprovas.todo.model;
 
 import java.time.LocalDateTime;
 

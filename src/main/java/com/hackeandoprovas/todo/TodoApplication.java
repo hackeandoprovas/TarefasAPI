@@ -1,4 +1,4 @@
-package io.github.cursodsousa.todo;
+package com.hackeandoprovas.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

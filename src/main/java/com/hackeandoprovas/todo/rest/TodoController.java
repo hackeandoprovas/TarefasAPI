@@ -1,4 +1,4 @@
-package io.github.cursodsousa.todo.rest;
+package com.hackeandoprovas.todo.rest;
 
 import java.time.LocalDateTime;
 import java.util.List;
@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import io.github.cursodsousa.todo.model.Todo;
-import io.github.cursodsousa.todo.repository.TodoRepository;
+import com.hackeandoprovas.todo.model.Todo;
+import com.hackeandoprovas.todo.repository.TodoRepository;
 
 @RestController
 @RequestMapping("/api/todos")
